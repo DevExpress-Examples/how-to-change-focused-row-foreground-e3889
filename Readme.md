@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CellForegroundConverter.cs](./CS/SLGridExample/CellForegroundConverter.cs) (VB: [CellForegroundConverter.vb](./VB/SLGridExample/CellForegroundConverter.vb))
+* [MainPage.xaml](./CS/SLGridExample/MainPage.xaml) (VB: [MainPage.xaml](./VB/SLGridExample/MainPage.xaml))
+<!-- default file list end -->
 # How to change focused row foreground
 
 
